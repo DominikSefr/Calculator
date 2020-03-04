@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Responsive_app\\Responsive_app\\Responsive_app.csproj": {}
+    "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\Responsive_app\\Responsive_app\\Responsive_app.csproj": {
+    "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Responsive_app\\Responsive_app\\Responsive_app.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj",
         "projectName": "Responsive_app",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Responsive_app\\Responsive_app\\Responsive_app.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Responsive_app\\Responsive_app\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

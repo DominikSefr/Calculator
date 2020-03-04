@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f01a4637-fb52-43ed-ba2b-b036fe6c127c</PackageIdentityName>
     <PackageIdentityPublisher>CN=Administrator</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>E6E233734CD29B8149BDC044B99E7D7E84B486EE1FFC00AE9AAB65311EC760EB</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f01a4637-fb52-43ed-ba2b-b036fe6c127c_1.0.0.0_x86__75cr2b68sm664</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f01a4637-fb52-43ed-ba2b-b036fe6c127c_75cr2b68sm664!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-02-26T08:08:55.496</Modified>
+      <Modified>2020-03-04T07:44:34.445</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\Responsive_app.exe">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\Responsive_app.exe">
       <PackagePath>entrypoint\Responsive_app.exe</PackagePath>
-      <Modified>2020-02-26T08:08:53.946</Modified>
+      <Modified>2020-03-04T07:44:34.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,67 +46,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T17:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-02-26T07:09:43.711</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-02-03T11:03:35.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\Responsive_app.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\Responsive_app.xr.xml">
       <PackagePath>Responsive_app.xr.xml</PackagePath>
-      <Modified>2020-02-26T08:08:53.723</Modified>
+      <Modified>2020-03-04T07:23:09.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-02-26T08:08:53.756</Modified>
+      <Modified>2020-03-04T07:44:33.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\View\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\View\MainPage.xbf">
       <PackagePath>View\MainPage.xbf</PackagePath>
-      <Modified>2020-02-26T08:08:53.756</Modified>
+      <Modified>2020-03-04T07:44:33.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T16:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2020-02-26T08:08:54.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Responsive_app\Responsive_app\bin\x86\Debug\Core\Responsive_app.exe">
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\bin\x86\Debug\Core\Responsive_app.exe">
       <PackagePath>Responsive_app.exe</PackagePath>
-      <Modified>2020-02-26T08:08:55.483</Modified>
+      <Modified>2020-03-04T07:44:34.441</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
