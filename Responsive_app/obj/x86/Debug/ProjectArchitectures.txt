@@ -1,1 +1,1 @@
-C:\Users\Administrator\Downloads\Calculator-master\Responsive_app\Responsive_app\Responsive_app.csproj;x86
+C:\Users\Dominik\Source\Repos\Calculator\Responsive_app\Responsive_app.csproj;x86

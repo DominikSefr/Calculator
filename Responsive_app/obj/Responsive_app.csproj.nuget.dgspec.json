@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj": {}
+    "C:\\Users\\Dominik\\Source\\Repos\\Calculator\\Responsive_app\\Responsive_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj": {
+    "C:\\Users\\Dominik\\Source\\Repos\\Calculator\\Responsive_app\\Responsive_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Source\\Repos\\Calculator\\Responsive_app\\Responsive_app.csproj",
         "projectName": "Responsive_app",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\Responsive_app.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\Calculator-master\\Responsive_app\\Responsive_app\\obj\\",
+        "projectPath": "C:\\Users\\Dominik\\Source\\Repos\\Calculator\\Responsive_app\\Responsive_app.csproj",
+        "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dominik\\Source\\Repos\\Calculator\\Responsive_app\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "uap10.0.17763"
